@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/shivamsinghal1012"> <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" alt = "linkedin" height="6%"  width="8%" > </a> 
 
-<a href="https://www.linkedin.com/in/shivamsinghal1012"> <img src="https://1000logos.net/wp-content/uploads/2018/04/Gmail-logo-new.jpg" alt = "linkedin" height="6%"  width="8%" > </a> 
+<a href="https://www.linkedin.com/in/shivamsinghal1012"> <img src="https://1000logos.net/wp-content/uploads/2018/04/Gmail-logo-new.jpg" alt = "linkedin" height="6%"  width="8%" margin-left = "20%" > </a> 
   
 ### Languages and Tools:  
 
