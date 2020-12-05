@@ -5,8 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-shivamsinghal1012-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivamsinghal1012)](https://www.linkedin.com/in/shivamsinghal1012)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivamsinghal1012@gmail.com)](mailto:shivamsinghal1012@gmail.com)
 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/shivam_singhal.10/">
+  <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -14,11 +14,14 @@
 - 🔭 💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Django;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/shivamsinghal1012">LinkedIn</a> or <a href="mailto:shivamsinghal1012@gmail.com">Mail Me</a>
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/shivamsinghal1012">LinkedIn</a> or <a href="mailto:shivamsinghal1012@gmail.com">Mail Me</a>;
+- 📝[Resume](https://drive.google.com/file/d/1QROZCQbCMe0acLpGJFsTPO-c-KHjcyGy/view?usp=sharing);
 
 <br>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=shivamsinghal1)
+
+<br>
  
   
 **Languages and Tools:**  
