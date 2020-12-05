@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
+<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="15%" height="8%">
 
-<img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" alt = "linkedin" height="10%"  width="15%" >
+<img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" alt = "linkedin" height="8%"  width="12%" >
 
 <a href="https://www.linkedin.com/in/shivamsinghal1012"> Linkedin </a> 
 
