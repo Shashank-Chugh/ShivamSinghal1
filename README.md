@@ -14,8 +14,7 @@
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="15%" height="8%">
 
-<a href="mailto:shivamsinghal1012@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2018/04/Gmail-logo-new.jpg" alt = "gmail" height="6%"  width="8%" > </a> <a href="https://www.instagram.com/shivam_singhal.10/"> <img src="https://img.imageupload.net/2020/12/05/insta.jpg" alt="insta.jpg" border="0" height="6%"  width="8%" > </a>  
-<a href="https://www.linkedin.com/in/shivamsinghal1012"> <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" alt = "linkedin" height="6%"  width="8%" > </a>  <a href="https://www.facebook.com/shivam.singla.127"> <img src="https://img.imageupload.net/2020/12/05/face.jpg" alt="face.jpg" border="0" height="6%"  width="8%" > </a>  
+<a href="mailto:shivamsinghal1012@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2018/04/Gmail-logo-new.jpg" alt = "gmail" height="6%"  width="8%" > </a>      <a href="https://www.instagram.com/shivam_singhal.10/"> <img src="https://img.imageupload.net/2020/12/05/insta.jpg" alt="insta.jpg" border="0" height="8%"  width="10%" > </a>  <a href="https://www.linkedin.com/in/shivamsinghal1012"> <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" alt = "linkedin" height="7%"  width="9%" > </a>  <a href="https://www.facebook.com/shivam.singla.127"> <img src="https://img.imageupload.net/2020/12/05/face.jpg" alt="face.jpg" border="0" height="8%"  width="10%" > </a>  
   
 ### Languages and Tools:  
 
