@@ -1,5 +1,15 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
+
+<hr>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-shivamsinghal1012-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivamsinghal1012)](https://www.linkedin.com/in/shivamsinghal1012)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivamsinghal1012@gmail.com)](mailto:shivamsinghal1012@gmail.com)
@@ -8,13 +18,7 @@
   <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
 
-<div align="center">
-to my personal GitHub profile!
-</div>
 
 <br>
 
