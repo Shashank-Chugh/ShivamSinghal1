@@ -40,6 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shivamsinghal1&show_icons=true&theme=gotham" alt="shivamsinghal1" />
 
 <div align="center">
+  <strong> Thanks for Visiting </strong>
 <p>Have a good day!</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
