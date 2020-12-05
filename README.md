@@ -1,37 +1,26 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-<div align="center">
-to my personal GitHub profile!
-</div>
 
 <br>
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
-<a href="https://www.hackerrank.com/Muskan_Rani"><img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
+
 <a href="https://www.linkedin.com/in/shivamsinghal1012"><img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" height="10%" ; width="15%" ; margin-left:20px;></img></a>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-shivamsinghal1012-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivamsinghal1012)](https://www.linkedin.com/in/shivamsinghal1012)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivamsinghal1012@gmail.com)](mailto:shivamsinghal1012@gmail.com)
-
-<a href="https://www.instagram.com/shivam_singhal.10/">
-  <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 
 
 <br>
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
+
 - 🔭 💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Django;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shivamsinghal1012">LinkedIn</a> or <a href="mailto:shivamsinghal1012@gmail.com">Mail Me</a>;
-- 📝[Resume](https://drive.google.com/file/d/1QROZCQbCMe0acLpGJFsTPO-c-KHjcyGy/view?usp=sharing);
+- 📝 [Resume](https://drive.google.com/file/d/1QROZCQbCMe0acLpGJFsTPO-c-KHjcyGy/view?usp=sharing);
 
 <br>
 
