@@ -4,22 +4,17 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center" height = "15%" ; width = "20%";>
 </div>
 
-<br>
+### Talking about Personal Stuffs:
+
+- 🔭 Currently Studying in penultimate year of B.Tech Computer Science (DTU).
+- 💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Django;
+- 💬 Feel free to Connect and Ask me anything, I am happy to help;
+- 📝 [Resume](https://drive.google.com/file/d/1QROZCQbCMe0acLpGJFsTPO-c-KHjcyGy/view?usp=sharing);
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="15%" height="8%">
 
 <a href="https://www.linkedin.com/in/shivamsinghal1012"> <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" alt = "linkedin" height="6%"  width="8%" > </a> 
-
-
-### Talking about Personal Stuffs:
-
-- 🔭 💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Django;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/shivamsinghal1012">LinkedIn</a> or <a href="mailto:shivamsinghal1012@gmail.com">Mail Me</a>;
-- 📝 [Resume](https://drive.google.com/file/d/1QROZCQbCMe0acLpGJFsTPO-c-KHjcyGy/view?usp=sharing);
-
- 
   
 ### Languages and Tools:  
 
