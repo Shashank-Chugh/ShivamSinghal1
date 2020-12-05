@@ -9,6 +9,7 @@
   <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br>
 
 **Talking about Personal Stuffs:**
 - 🔭 💻 I’m currently working on something cool :wink:;
