@@ -59,7 +59,7 @@ to my personal GitHub profile!
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamsinghal1&show_icons=true&theme=gotham" alt="shivamsinghal1" />
+<img src="https://github-readme-stats.vercel.app/api?username=shivamsinghal1&show_icons=true&theme=gotham" alt="shivamsinghal1" />
 
 <div align="center">
 <p>Have a good day!</p>
