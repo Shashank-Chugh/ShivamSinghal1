@@ -8,11 +8,8 @@
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="15%" height="8%">
 
-<img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" alt = "linkedin" height="8%"  width="12%" >
+<a href="https://www.linkedin.com/in/shivamsinghal1012"> <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" alt = "linkedin" height="6%"  width="8%" > </a> 
 
-<a href="https://www.linkedin.com/in/shivamsinghal1012"> Linkedin </a> 
-
-<br>
 
 ### Talking about Personal Stuffs:
 
@@ -22,14 +19,9 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shivamsinghal1012">LinkedIn</a> or <a href="mailto:shivamsinghal1012@gmail.com">Mail Me</a>;
 - 📝 [Resume](https://drive.google.com/file/d/1QROZCQbCMe0acLpGJFsTPO-c-KHjcyGy/view?usp=sharing);
 
-<br>
-
-![](https://visitor-badge.glitch.me/badge?page_id=shivamsinghal1)
-
-<br>
  
   
-**Languages and Tools:**  
+### Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
