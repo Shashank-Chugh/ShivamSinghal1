@@ -1,5 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-shivamsinghal1012-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivamsinghal1012)](https://www.linkedin.com/in/shivamsinghal1012)
