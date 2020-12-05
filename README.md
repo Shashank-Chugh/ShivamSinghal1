@@ -8,7 +8,7 @@
 to my personal GitHub profile!
 </div>
 
-<hr>
+<br>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-shivamsinghal1012-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivamsinghal1012)](https://www.linkedin.com/in/shivamsinghal1012)
